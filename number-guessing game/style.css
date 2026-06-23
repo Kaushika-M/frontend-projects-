@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+#num{
+    height: 20px;
+    width: 300px;
+}
+#container{
+    display: flex;
+    gap: 30px;
+}
+#sub{
+    height: 40px;
+    width: 80px;
+    font-size: 15px;    
+}
+#ans{
+    height: 40px;
+    width: 80px;
+    font-size: 15px;
+}
+#msg{
+    font-family: Arial, Helvetica, sans-serif;
+}
